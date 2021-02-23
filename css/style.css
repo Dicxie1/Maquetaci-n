@@ -1,0 +1,12 @@
+.menu{
+    text-align: right;
+}
+.menu > a{
+    color: rgb(3, 3, 207);
+}
+.info{
+    background-color: rgb(198, 198, 253);
+}
+.info > h4, p{
+    color: rgb(3, 3, 207);
+}

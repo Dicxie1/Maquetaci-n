@@ -1,1 +1,1 @@
-alert("Hola este es un mensaje desde aplicacion.js");
+alert("archivos javascript enbebido dentro de HTML");
